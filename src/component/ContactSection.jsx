@@ -22,7 +22,7 @@ const ContactSection = () => {
                     </div>
 
                     <div className='grid justify-items-center grid-cols-6 md:grid-cols-6 md:gap-0 gap-0 md:px-48 lg:px-68 px-8 pb-8'>
-                        <ActionButton url="mailto:ashmita.202004@gmail.com" icon={mail} alt="mail" color="#D86072" />
+                        <ActionButton url="mailto:ashmita.tech@gmail.com" icon={mail} alt="mail" color="#D86072" />
                         <ActionButton url="https://github.com/Ashmita001" icon={github} alt="github" color="#D6DC82" />
                         <ActionButton url="https://www.linkedin.com/in/ashmita-328350273/" icon={linkedin} alt="linkedin" color="#c6c2f2" />
                         <ActionButton url="http://discordapp.com/users/ashmita.01" icon={discord} alt="discord" color="#D86072" />
